@@ -1,1 +1,1 @@
-# opencv
+# Face recognition attendance system
